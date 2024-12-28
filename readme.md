@@ -66,6 +66,14 @@ This project is a simple web application that allows users to upload images, vie
 4. Click "View Image" to see the uploaded image.
 5. Click "Delete Image" to remove the image from the server and database.
 
+## Screenshots
+
+### Image 1
+![Image 1](screenshots/1.png)
+
+### Image 2
+![Image 2](screenshots/2.png)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
